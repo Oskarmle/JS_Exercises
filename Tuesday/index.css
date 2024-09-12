@@ -1,0 +1,25 @@
+.box{
+    color: white;
+    background-color: blue;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hideMessage{
+    width: 300px;
+    height: 200px;
+    display: none;
+}
+
+.showMessage{
+    width: 300px;
+    height: 200px;
+    color: blue;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
